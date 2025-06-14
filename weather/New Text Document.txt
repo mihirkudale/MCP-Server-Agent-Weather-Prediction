@@ -40,7 +40,7 @@
 }
 
 
-# steps 👍
+# steps 👍=
 
 pip install uv
 which uv
